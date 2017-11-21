@@ -1,6 +1,6 @@
 package java8practice;
 
-public class LambdaPractice1 {
+public class LambdaFirstStep {
 
     private static void execute(SomeInterface instance) {
         instance.doSomething();
@@ -34,11 +34,6 @@ interface SomeInterface {
     //So that, it can be used to write a lambda expression.
 
     public void doSomething();
-
-    //Any number of default method is allowed in a functional interface
-    default void completeMethod() {
-        System.err.println("Hello complete method");
-    }
 
     //public void doSomething2(); This is not allowed as it is a functional interface
 }
