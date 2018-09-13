@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07ba6a77-902c-42d4-80e4-f9ba4edd6c6b" name="Default" comment="" />
+    <list default="true" id="07ba6a77-902c-42d4-80e4-f9ba4edd6c6b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,58 +15,58 @@
     <session id="58337919">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.31" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="26" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="26" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4176" />
+          <entry key="java" value="7471" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4176" />
+          <entry key="JAVA" value="7471" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/files/FileReading.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1700">
-              <caret line="100" column="12" selection-start-line="100" selection-start-column="12" selection-end-line="100" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/files/FileWriting.java">
+        <entry file="file://$PROJECT_DIR$/src/thread/CreatingThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="78" lean-forward="true" selection-start-line="34" selection-start-column="78" selection-end-line="34" selection-end-column="78" />
+            <state relative-caret-position="230">
+              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="method#run#0;class#RunnableInterfaceDemo#0" />
+                <element signature="class#ThreadClassDemo#0" />
+                <element signature="method#run#0;class#ThreadClassDemo#0" />
+                <element signature="e#1680#1826#0" expanded="true" />
+                <element signature="e#1825#1826#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -108,6 +110,12 @@
         <option value="$PROJECT_DIR$/src/serialization/SerializePojo.java" />
         <option value="$PROJECT_DIR$/src/serialization/DeserializationDemo.java" />
         <option value="$PROJECT_DIR$/src/files/FileWriting.java" />
+        <option value="$PROJECT_DIR$/src/thread/RunnableInterfaceDemo.java" />
+        <option value="$PROJECT_DIR$/src/thread/SyncronizationDemo.java" />
+        <option value="$PROJECT_DIR$/src/thread/SynchronizationDemo.java" />
+        <option value="$PROJECT_DIR$/src/thread/InterruptDemo.java" />
+        <option value="$PROJECT_DIR$/src/thread/WaitNotify.java" />
+        <option value="$PROJECT_DIR$/src/thread/CreatingThread.java" />
       </list>
     </option>
   </component>
@@ -144,27 +152,36 @@
               <item name="java-8-practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-8-practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="files" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-8-practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-8-practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="serialization" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="CreatingThread.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="java-8-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-8-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="InterruptDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="Object&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/Object.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535526418792" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536837673751" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -183,20 +200,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DeserializationDemo">
+  <component name="RunManager" selected="Application.CreatingThread">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeserializationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="serialization.DeserializationDemo" />
+    <configuration name="CreatingThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.CreatingThread" />
       <module name="java-8-practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="serialization.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,13 +221,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="files.FileOperations" />
+    <configuration name="InterruptDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.InterruptDemo" />
       <module name="java-8-practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="files.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,13 +235,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileReading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="files.FileReading" />
+    <configuration name="RunnableInterfaceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.RunnableInterfaceDemo" />
       <module name="java-8-practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="files.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,13 +249,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileWriting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="files.FileWriting" />
+    <configuration name="SynchronizationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.SynchronizationDemo" />
       <module name="java-8-practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="files.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,13 +263,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerializationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="serialization.SerializationDemo" />
+    <configuration name="WaitNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.WaitNotify" />
       <module name="java-8-practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="serialization.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,19 +311,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FileOperations" />
-      <item itemvalue="Application.FileWriting" />
-      <item itemvalue="Application.FileReading" />
-      <item itemvalue="Application.SerializationDemo" />
-      <item itemvalue="Application.DeserializationDemo" />
+      <item itemvalue="Application.RunnableInterfaceDemo" />
+      <item itemvalue="Application.CreatingThread" />
+      <item itemvalue="Application.SynchronizationDemo" />
+      <item itemvalue="Application.InterruptDemo" />
+      <item itemvalue="Application.WaitNotify" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DeserializationDemo" />
-        <item itemvalue="Application.SerializationDemo" />
-        <item itemvalue="Application.FileReading" />
-        <item itemvalue="Application.FileWriting" />
-        <item itemvalue="Application.FileOperations" />
+        <item itemvalue="Application.CreatingThread" />
+        <item itemvalue="Application.WaitNotify" />
+        <item itemvalue="Application.SynchronizationDemo" />
+        <item itemvalue="Application.InterruptDemo" />
+        <item itemvalue="Application.RunnableInterfaceDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -327,18 +344,27 @@
       <workItem from="1535351338936" duration="10024000" />
       <workItem from="1535437088716" duration="7000" />
       <workItem from="1535437424370" duration="623000" />
-      <workItem from="1535523051257" duration="2024000" />
+      <workItem from="1535523051257" duration="3578000" />
+      <workItem from="1535608802944" duration="85000" />
+      <workItem from="1535968125101" duration="1185000" />
+      <workItem from="1536041140933" duration="6948000" />
+      <workItem from="1536068370380" duration="38000" />
+      <workItem from="1536144289680" duration="34000" />
+      <workItem from="1536323314934" duration="2878000" />
+      <workItem from="1536558798559" duration="709000" />
+      <workItem from="1536748823836" duration="2435000" />
+      <workItem from="1536827507902" duration="7377000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22757000" />
+    <option name="totallyTimeSpent" value="46000000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27919462" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3167785" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -348,8 +374,8 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.50708216" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5141643" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -377,13 +403,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="238" column="4" lean-forward="true" selection-start-line="238" selection-start-column="4" selection-end-line="238" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java8practice/GroupingBy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -487,9 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -497,9 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="15" column="18" lean-forward="true" selection-start-line="11" selection-start-column="87" selection-end-line="11" selection-end-column="111" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -514,15 +527,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../java-practice/src/com/java/MyException.java" />
+    <entry file="file://$PROJECT_DIR$/java-8-practice.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/files/FileReading.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1700">
+        <state relative-caret-position="1598">
           <caret line="100" column="12" selection-start-line="100" selection-start-column="12" selection-end-line="100" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -530,21 +544,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../java-practice/src/com/java/MyException.java">
+    <entry file="file://$PROJECT_DIR$/src/files/FileWriting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="238">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
           <folding>
-            <element signature="e#0#515#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/files/FileWriting.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="78" lean-forward="true" selection-start-line="34" selection-start-column="78" selection-end-line="34" selection-end-column="78" />
+        <state relative-caret-position="34">
+          <caret line="250" column="43" lean-forward="true" selection-start-line="250" selection-start-column="43" selection-end-line="250" selection-end-column="43" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#Object#0" />
+            <element signature="initializer##0;class#Object#0" />
+            <element signature="docComment;method#getClass#0;class#Object#0" />
+            <element signature="docComment;method#hashCode#0;class#Object#0" />
+            <element signature="docComment;method#equals#0;class#Object#0" />
+            <element signature="docComment;method#clone#0;class#Object#0" />
+            <element signature="docComment;method#toString#0;class#Object#0" />
+            <element signature="docComment;method#notifyAll#0;class#Object#0" />
+            <element signature="docComment;method#wait#0;class#Object#0" />
+            <element signature="docComment;method#wait#1;class#Object#0" />
+            <element signature="method#wait#1;class#Object#0" />
+            <element signature="docComment;method#finalize#0;class#Object#0" />
+            <element signature="method#finalize#0;class#Object#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/SynchronizationDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/InterruptDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/WaitNotify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/CreatingThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="method#run#0;class#RunnableInterfaceDemo#0" />
+            <element signature="class#ThreadClassDemo#0" />
+            <element signature="method#run#0;class#ThreadClassDemo#0" />
+            <element signature="e#1680#1826#0" expanded="true" />
+            <element signature="e#1825#1826#0" expanded="true" />
           </folding>
         </state>
       </provider>
